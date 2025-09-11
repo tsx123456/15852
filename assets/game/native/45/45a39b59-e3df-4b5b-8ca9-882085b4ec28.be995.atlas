@@ -1,0 +1,83 @@
+
+wheel_lizi.png
+size: 1363,385
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gaoguang
+  rotate: false
+  xy: 880, 51
+  size: 240, 117
+  orig: 240, 117
+  offset: 0, 0
+  index: -1
+huangdiguang
+  rotate: false
+  xy: 1122, 173
+  size: 239, 210
+  orig: 240, 240
+  offset: 1, 15
+  index: -1
+huoxing1
+  rotate: false
+  xy: 1310, 137
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+huoxing2
+  rotate: false
+  xy: 880, 31
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+huoxing3
+  rotate: false
+  xy: 1310, 153
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+huoxing4
+  rotate: false
+  xy: 1201, 69
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+liangguang
+  rotate: false
+  xy: 1122, 85
+  size: 186, 86
+  orig: 186, 86
+  offset: 0, 0
+  index: -1
+lun1
+  rotate: false
+  xy: 444, 7
+  size: 434, 376
+  orig: 480, 480
+  offset: 23, 52
+  index: -1
+lun2
+  rotate: false
+  xy: 2, 2
+  size: 440, 381
+  orig: 480, 480
+  offset: 20, 49
+  index: -1
+yuanguang
+  rotate: false
+  xy: 1122, 6
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+zidiguang
+  rotate: false
+  xy: 880, 170
+  size: 240, 213
+  orig: 240, 240
+  offset: 0, 13
+  index: -1

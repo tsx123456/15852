@@ -1,0 +1,27 @@
+
+bg_respin.png
+size: 599, 431
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+bg
+  rotate: false
+  xy: 393, 2
+  size: 100, 91
+  orig: 100, 91
+  offset: 0, 0
+  index: -1
+dianguang
+  rotate: false
+  xy: 393, 95
+  size: 204, 334
+  orig: 204, 334
+  offset: 0, 0
+  index: -1
+xg2
+  rotate: false
+  xy: 2, 20
+  size: 389, 409
+  orig: 389, 409
+  offset: 0, 0
+  index: -1

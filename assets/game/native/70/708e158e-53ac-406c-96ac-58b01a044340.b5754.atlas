@@ -1,0 +1,20 @@
+
+button_start.png
+size: 310,55
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+btnguang2
+  rotate: false
+  xy: 177, 2
+  size: 131, 51
+  orig: 131, 51
+  offset: 0, 0
+  index: -1
+button_receive
+  rotate: false
+  xy: 2, 3
+  size: 173, 50
+  orig: 176, 57
+  offset: 1, 6
+  index: -1

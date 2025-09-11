@@ -1,0 +1,125 @@
+
+wild_lizi.jpg
+size: 1934,542
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s1
+  rotate: false
+  xy: 2, 272
+  size: 274, 268
+  orig: 274, 268
+  offset: 0, 0
+  index: -1
+s10
+  rotate: false
+  xy: 1106, 2
+  size: 274, 268
+  orig: 274, 268
+  offset: 0, 0
+  index: -1
+s11
+  rotate: false
+  xy: 1382, 272
+  size: 274, 268
+  orig: 274, 268
+  offset: 0, 0
+  index: -1
+s12
+  rotate: false
+  xy: 1382, 2
+  size: 274, 268
+  orig: 274, 268
+  offset: 0, 0
+  index: -1
+s13
+  rotate: false
+  xy: 1658, 272
+  size: 274, 268
+  orig: 274, 268
+  offset: 0, 0
+  index: -1
+s14
+  rotate: false
+  xy: 1658, 2
+  size: 274, 268
+  orig: 274, 268
+  offset: 0, 0
+  index: -1
+s15
+  rotate: false
+  xy: 1658, 2
+  size: 274, 268
+  orig: 274, 268
+  offset: 0, 0
+  index: -1
+s16
+  rotate: false
+  xy: 1658, 2
+  size: 274, 268
+  orig: 274, 268
+  offset: 0, 0
+  index: -1
+s17
+  rotate: false
+  xy: 1658, 2
+  size: 274, 268
+  orig: 274, 268
+  offset: 0, 0
+  index: -1
+s2
+  rotate: false
+  xy: 2, 2
+  size: 274, 268
+  orig: 274, 268
+  offset: 0, 0
+  index: -1
+s3
+  rotate: false
+  xy: 278, 272
+  size: 274, 268
+  orig: 274, 268
+  offset: 0, 0
+  index: -1
+s4
+  rotate: false
+  xy: 278, 2
+  size: 274, 268
+  orig: 274, 268
+  offset: 0, 0
+  index: -1
+s5
+  rotate: false
+  xy: 554, 272
+  size: 274, 268
+  orig: 274, 268
+  offset: 0, 0
+  index: -1
+s6
+  rotate: false
+  xy: 554, 2
+  size: 274, 268
+  orig: 274, 268
+  offset: 0, 0
+  index: -1
+s7
+  rotate: false
+  xy: 830, 272
+  size: 274, 268
+  orig: 274, 268
+  offset: 0, 0
+  index: -1
+s8
+  rotate: false
+  xy: 830, 2
+  size: 274, 268
+  orig: 274, 268
+  offset: 0, 0
+  index: -1
+s9
+  rotate: false
+  xy: 1106, 272
+  size: 274, 268
+  orig: 274, 268
+  offset: 0, 0
+  index: -1

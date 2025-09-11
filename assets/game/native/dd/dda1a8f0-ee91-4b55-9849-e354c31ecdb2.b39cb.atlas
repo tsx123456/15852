@@ -1,0 +1,181 @@
+
+wild.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+efwildtoubao_glow
+  rotate: true
+  xy: 210, 3
+  size: 72, 68
+  orig: 72, 68
+  offset: 0, 0
+  index: -1
+wild_normal
+  rotate: false
+  xy: 210, 77
+  size: 155, 174
+  orig: 227, 209
+  offset: 38, 17
+  index: -1
+wiledia_glow
+  rotate: false
+  xy: 403, 6
+  size: 106, 112
+  orig: 121, 123
+  offset: 7, 7
+  index: -1
+wiledib_glow
+  rotate: false
+  xy: 340, 14
+  size: 61, 61
+  orig: 75, 69
+  offset: 5, 5
+  index: -1
+wilejiao_glow
+  rotate: true
+  xy: 2, 29
+  size: 222, 206
+  orig: 225, 213
+  offset: 1, 2
+  index: -1
+wileray_glow
+  rotate: false
+  xy: 511, 52
+  size: 95, 96
+  orig: 100, 101
+  offset: 3, 3
+  index: -1
+wilesg_glow/saoguang_00018
+  rotate: false
+  xy: 1224, 89
+  size: 77, 83
+  orig: 112, 104
+  offset: 18, 9
+  index: -1
+wilesg_glow/saoguang_00019
+  rotate: true
+  xy: 1223, 174
+  size: 77, 86
+  orig: 112, 104
+  offset: 18, 9
+  index: -1
+wilesg_glow/saoguang_00020
+  rotate: false
+  xy: 1141, 75
+  size: 81, 93
+  orig: 112, 104
+  offset: 16, 7
+  index: -1
+wilesg_glow/saoguang_00021
+  rotate: false
+  xy: 582, 154
+  size: 88, 97
+  orig: 112, 104
+  offset: 11, 7
+  index: -1
+wilesg_glow/saoguang_00022
+  rotate: false
+  xy: 608, 55
+  size: 88, 97
+  orig: 112, 104
+  offset: 11, 7
+  index: -1
+wilesg_glow/saoguang_00023
+  rotate: false
+  xy: 672, 154
+  size: 88, 97
+  orig: 112, 104
+  offset: 11, 7
+  index: -1
+wilesg_glow/saoguang_00024
+  rotate: false
+  xy: 698, 55
+  size: 88, 97
+  orig: 112, 104
+  offset: 11, 7
+  index: -1
+wilesg_glow/saoguang_00025
+  rotate: false
+  xy: 762, 154
+  size: 88, 97
+  orig: 112, 104
+  offset: 11, 7
+  index: -1
+wilesg_glow/saoguang_00026
+  rotate: false
+  xy: 788, 55
+  size: 88, 97
+  orig: 112, 104
+  offset: 11, 7
+  index: -1
+wilesg_glow/saoguang_00027
+  rotate: false
+  xy: 852, 154
+  size: 88, 97
+  orig: 112, 104
+  offset: 11, 7
+  index: -1
+wilesg_glow/saoguang_00028
+  rotate: false
+  xy: 878, 55
+  size: 88, 97
+  orig: 112, 104
+  offset: 11, 7
+  index: -1
+wilesg_glow/saoguang_00029
+  rotate: false
+  xy: 942, 154
+  size: 88, 97
+  orig: 112, 104
+  offset: 11, 7
+  index: -1
+wilesg_glow/saoguang_00030
+  rotate: false
+  xy: 968, 55
+  size: 88, 97
+  orig: 112, 104
+  offset: 11, 7
+  index: -1
+wilesg_glow/saoguang_00031
+  rotate: false
+  xy: 1058, 60
+  size: 81, 97
+  orig: 112, 104
+  offset: 16, 7
+  index: -1
+wilesg_glow/saoguang_00032
+  rotate: true
+  xy: 1124, 170
+  size: 81, 97
+  orig: 112, 104
+  offset: 16, 7
+  index: -1
+wileyuguang_glow
+  rotate: false
+  xy: 1032, 159
+  size: 90, 92
+  orig: 99, 104
+  offset: 4, 7
+  index: -1
+wilezia_glow
+  rotate: true
+  xy: 367, 120
+  size: 131, 117
+  orig: 146, 133
+  offset: 7, 9
+  index: -1
+wilezici_glow
+  rotate: true
+  xy: 486, 150
+  size: 101, 94
+  orig: 122, 96
+  offset: 9, 1
+  index: -1
+wilezin_normal
+  rotate: true
+  xy: 280, 2
+  size: 73, 58
+  orig: 73, 58
+  offset: 0, 0
+  index: -1

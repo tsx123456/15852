@@ -1,0 +1,104 @@
+
+button_manual.jpg
+size: 1475,414
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a1
+  rotate: false
+  xy: 1291, 258
+  size: 155, 154
+  orig: 222, 206
+  offset: 32, 27
+  index: -1
+a10
+  rotate: false
+  xy: 440, 2
+  size: 217, 204
+  orig: 222, 206
+  offset: 2, 2
+  index: -1
+a11
+  rotate: false
+  xy: 2, 4
+  size: 216, 188
+  orig: 222, 206
+  offset: 0, 15
+  index: -1
+a12
+  rotate: false
+  xy: 1087, 219
+  size: 202, 193
+  orig: 222, 206
+  offset: 4, 13
+  index: -1
+a2
+  rotate: false
+  xy: 1285, 29
+  size: 188, 188
+  orig: 222, 206
+  offset: 16, 10
+  index: -1
+a3
+  rotate: true
+  xy: 1082, 5
+  size: 206, 201
+  orig: 222, 206
+  offset: 6, 3
+  index: -1
+a4
+  rotate: false
+  xy: 867, 213
+  size: 218, 199
+  orig: 222, 206
+  offset: 4, 4
+  index: -1
+a5
+  rotate: false
+  xy: 659, 2
+  size: 214, 205
+  orig: 222, 206
+  offset: 2, 1
+  index: -1
+a6
+  rotate: false
+  xy: 650, 209
+  size: 215, 203
+  orig: 222, 206
+  offset: 3, 3
+  index: -1
+a7
+  rotate: false
+  xy: 220, 2
+  size: 218, 204
+  orig: 222, 206
+  offset: 4, 0
+  index: -1
+a8
+  rotate: false
+  xy: 430, 208
+  size: 218, 204
+  orig: 222, 206
+  offset: 0, 1
+  index: -1
+a9
+  rotate: false
+  xy: 209, 208
+  size: 219, 204
+  orig: 222, 206
+  offset: 0, 1
+  index: -1
+button_g
+  rotate: false
+  xy: 2, 194
+  size: 205, 218
+  orig: 205, 218
+  offset: 0, 0
+  index: -1
+spin_vfx_a
+  rotate: false
+  xy: 875, 3
+  size: 205, 208
+  orig: 205, 208
+  offset: 0, 0
+  index: -1

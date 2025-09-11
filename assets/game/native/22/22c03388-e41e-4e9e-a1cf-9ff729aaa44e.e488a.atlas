@@ -1,0 +1,230 @@
+
+wild_light.jpg
+size: 606,1015
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b1
+  rotate: false
+  xy: 2, 868
+  size: 164, 145
+  orig: 174, 160
+  offset: 2, 8
+  index: -1
+b10
+  rotate: false
+  xy: 331, 713
+  size: 161, 145
+  orig: 174, 160
+  offset: 9, 11
+  index: -1
+b11
+  rotate: false
+  xy: 334, 860
+  size: 163, 153
+  orig: 174, 160
+  offset: 11, 7
+  index: -1
+b12
+  rotate: false
+  xy: 326, 429
+  size: 158, 149
+  orig: 174, 160
+  offset: 15, 11
+  index: -1
+b13
+  rotate: false
+  xy: 2, 716
+  size: 163, 150
+  orig: 174, 160
+  offset: 11, 10
+  index: -1
+b14
+  rotate: false
+  xy: 2, 417
+  size: 158, 150
+  orig: 174, 160
+  offset: 16, 10
+  index: -1
+b15
+  rotate: false
+  xy: 162, 122
+  size: 155, 150
+  orig: 174, 160
+  offset: 15, 10
+  index: -1
+b16
+  rotate: false
+  xy: 2, 273
+  size: 158, 142
+  orig: 174, 160
+  offset: 16, 10
+  index: -1
+b17
+  rotate: false
+  xy: 162, 274
+  size: 157, 139
+  orig: 174, 160
+  offset: 16, 12
+  index: -1
+b18
+  rotate: false
+  xy: 331, 580
+  size: 161, 131
+  orig: 174, 160
+  offset: 0, 15
+  index: -1
+b2
+  rotate: false
+  xy: 2, 129
+  size: 155, 142
+  orig: 174, 160
+  offset: 12, 11
+  index: -1
+b3
+  rotate: false
+  xy: 162, 415
+  size: 158, 148
+  orig: 174, 160
+  offset: 11, 6
+  index: -1
+b4
+  rotate: false
+  xy: 322, 279
+  size: 157, 148
+  orig: 174, 160
+  offset: 10, 7
+  index: -1
+b5
+  rotate: false
+  xy: 168, 868
+  size: 164, 145
+  orig: 174, 160
+  offset: 7, 8
+  index: -1
+b6
+  rotate: false
+  xy: 2, 569
+  size: 161, 145
+  orig: 174, 160
+  offset: 11, 10
+  index: -1
+b7
+  rotate: false
+  xy: 167, 711
+  size: 162, 155
+  orig: 174, 160
+  offset: 10, 0
+  index: -1
+b8
+  rotate: false
+  xy: 321, 128
+  size: 156, 149
+  orig: 174, 160
+  offset: 13, 4
+  index: -1
+b9
+  rotate: false
+  xy: 165, 565
+  size: 159, 144
+  orig: 174, 160
+  offset: 11, 10
+  index: -1
+c1
+  rotate: false
+  xy: 121, 3
+  size: 117, 117
+  orig: 121, 122
+  offset: 4, 1
+  index: -1
+c10
+  rotate: true
+  xy: 494, 648
+  size: 117, 110
+  orig: 121, 122
+  offset: 0, 6
+  index: -1
+c11
+  rotate: true
+  xy: 499, 767
+  size: 116, 71
+  orig: 121, 122
+  offset: 2, 39
+  index: -1
+c12
+  rotate: false
+  xy: 499, 945
+  size: 94, 68
+  orig: 121, 122
+  offset: 13, 47
+  index: -1
+c13
+  rotate: false
+  xy: 499, 885
+  size: 91, 58
+  orig: 121, 122
+  offset: 16, 64
+  index: -1
+c14
+  rotate: true
+  xy: 572, 818
+  size: 65, 26
+  orig: 121, 122
+  offset: 27, 81
+  index: -1
+c2
+  rotate: true
+  xy: 486, 411
+  size: 117, 118
+  orig: 121, 122
+  offset: 4, 0
+  index: -1
+c3
+  rotate: false
+  xy: 481, 292
+  size: 120, 117
+  orig: 121, 122
+  offset: 1, 0
+  index: -1
+c4
+  rotate: false
+  xy: 240, 3
+  size: 116, 117
+  orig: 121, 122
+  offset: 2, 0
+  index: -1
+c5
+  rotate: false
+  xy: 479, 55
+  size: 119, 117
+  orig: 121, 122
+  offset: 0, 0
+  index: -1
+c6
+  rotate: false
+  xy: 481, 174
+  size: 120, 116
+  orig: 121, 122
+  offset: 0, 0
+  index: -1
+c7
+  rotate: true
+  xy: 2, 2
+  size: 118, 117
+  orig: 121, 122
+  offset: 3, 1
+  index: -1
+c8
+  rotate: false
+  xy: 358, 13
+  size: 113, 113
+  orig: 121, 122
+  offset: 4, 1
+  index: -1
+c9
+  rotate: true
+  xy: 494, 530
+  size: 116, 110
+  orig: 121, 122
+  offset: 2, 4
+  index: -1
